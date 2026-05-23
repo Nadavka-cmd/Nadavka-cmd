@@ -1,4 +1,4 @@
-# Nadav Kamar — HPC & Infrastructure Engineer
+# Nadav Kama — HPC & Infrastructure Engineer
 
 Linux systems engineer specializing in HPC cluster administration, GPU compute infrastructure, and research platform engineering.
 
